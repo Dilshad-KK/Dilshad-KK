@@ -12,7 +12,6 @@ Currently building customer-facing and internal products at Cruise Master.
 
 ## Selected work
 
-- [Expense Tracker](https://github.com/Dilshad-KK/expense-tracker) - A Next.js, TypeScript and Supabase personal-finance workspace with PWA support and optional AI-powered workflows.
 - [Jewelry Poster Maker](https://github.com/Dilshad-KK/Jewelry-Poster-Maker) - A Next.js and Supabase tool for producing and sharing branded gold-rate posters.
 
 Most of my recent production work is in private repositories.
